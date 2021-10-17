@@ -1,3 +1,3 @@
 # README
 
-railsとreactで開発します。
+railsとreactで体重管理アプリを開発します。
